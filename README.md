@@ -19,7 +19,7 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 
 ### Step 1: Clone the repository
 ```
-git clone https://github.com/sethusaim/Sensor-Fault-Detection.git
+git clone https://github.com/harshalnir99/End-To-End-Sensor-Fault-Detection.git
 ```
 
 ## Step 2- Create a conda environment after opening the repository
